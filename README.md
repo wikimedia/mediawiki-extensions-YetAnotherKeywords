@@ -1,4 +1,4 @@
 YetAnotherKeywords
 ==================
 
-keywords plugin for mediawiki
+Mediawiki plugin for meta keywords
