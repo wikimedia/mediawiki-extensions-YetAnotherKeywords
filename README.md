@@ -1,4 +1,5 @@
 YetAnotherKeywords
 ==================
 
-Mediawiki plugin for meta keywords
+YetAnotherKeywords is mediawiki extension.
+It gives users the ability to inject a <meta> keywords into the document header.
