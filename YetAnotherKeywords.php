@@ -53,12 +53,15 @@ if( !defined( 'MEDIAWIKI' ) ) {
 
 # Credits
 $wgExtensionCredits['parserhook'][] = array(
+	'path' => __FILE__,
 	'name' => 'YetAnotherKeywords',
 	'author' => 'Jehy http://jehy.ru/index.en.html',
-	'url' => 'http://jehy.ru/wiki-extensions.en.html',
-	'description' => 'Adds &lt;metakeywords&gt; tag to inject meta keywords into page header.',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:YetAnotherKeywords',
+	'descriptionmsg' => 'yetanotherkeywords-desc',
 	'version'=> '0.2'
 );
+
+$wgExtensionMessagesFiles['YetAnotherKeywords'] = __DIR__ . '/YetAnotherKeywords.i18n.php';
 
 $wgExtensionFunctions[] = 'setupYetAnotherKeywordsParserHooks';
 
