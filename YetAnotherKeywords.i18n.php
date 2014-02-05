@@ -93,6 +93,13 @@ $messages['ru'] = array(
 	'yetanotherkeywords-desc' => 'Добавляет тег &lt;metakeywords&gt; для того, чтобы вставить мета-тег с ключевыми словами в заголовок страницы',
 );
 
+/** Swedish (svenska)
+ * @author Lokal Profil
+ */
+$messages['sv'] = array(
+	'yetanotherkeywords-desc' => 'Lägger till &lt;metakeywords&gt;-taggar för att injicera meta-sökord i sidhuvudet',
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  */
