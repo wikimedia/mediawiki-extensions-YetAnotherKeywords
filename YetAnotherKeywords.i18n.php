@@ -72,6 +72,13 @@ $messages['mk'] = array(
 	'yetanotherkeywords-desc' => 'Додава ознака &lt;metakeywords&gt; за вметнување на метаклучни зборови во заглавие на страница',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'yetanotherkeywords-desc' => 'Membubuh teg &lt;metakeywords&gt; untuk menyuntikkan kata kunci meta ke dalam pengepala halaman',
+);
+
 /** Norwegian Bokmål (norsk bokmål)
  * @author Event
  */
