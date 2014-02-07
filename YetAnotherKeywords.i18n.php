@@ -51,6 +51,13 @@ $messages['fr'] = array(
 	'yetanotherkeywords-desc' => 'Ajoute la balise &lt;metakeywords&gt; pour injecter des méta-mots-clés dans l’entête de la page',
 );
 
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'yetanotherkeywords-desc' => 'Engade a etiqueta &lt;metakeywords&gt; para inxectar palabras clave na cabeceira dunha páxina',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
