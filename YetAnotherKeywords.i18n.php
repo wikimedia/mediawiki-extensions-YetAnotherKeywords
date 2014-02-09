@@ -43,6 +43,13 @@ $messages['de'] = array(
 	'yetanotherkeywords-desc' => 'Ergänzt das &lt;metakeywords&gt;-Tag zum Einfügen von Meta-Schlüsselwörtern in den Seitenheader',
 );
 
+/** Spanish (español)
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'yetanotherkeywords-desc' => 'Añade la etiqueta &lt;metakeywords&gt; para inyectar palabras clave «meta» en la cabecera de la página',
+);
+
 /** French (français)
  * @author Gomoko
  */
@@ -121,8 +128,9 @@ $messages['uk'] = array(
 );
 
 /** Simplified Chinese (中文（简体）‎)
+ * @author Liuxinyu970226
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
-	'yetanotherkeywords-desc' => '添加“metakeywords”标签，注入meta关键字到页面头',
+	'yetanotherkeywords-desc' => '添加&lt;metakeywords&gt;标签，注入meta关键字到页面头',
 );
