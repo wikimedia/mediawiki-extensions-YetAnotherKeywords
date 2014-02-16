@@ -78,6 +78,13 @@ $messages['ko'] = array(
 	'yetanotherkeywords-desc' => '&lt;metakeywords&gt 추가; 문서 머릿글에 메타 키워드를 삽입하는 태그',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'yetanotherkeywords-desc' => 'Brängk dä Befähl <code lang="en xml:lang="en">&lt;metakeywords&gt;</code> öm Schlößelwööter en der Siggekopp ze bränge.',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
