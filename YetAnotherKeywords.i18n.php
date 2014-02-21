@@ -120,6 +120,13 @@ $messages['ru'] = array(
 	'yetanotherkeywords-desc' => 'Добавляет тег &lt;metakeywords&gt; для того, чтобы вставить мета-тег с ключевыми словами в заголовок страницы',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'yetanotherkeywords-desc' => 'Adds &lt;metakeywords&gt; tag tae inject meta keywords intil page header',
+);
+
 /** Swedish (svenska)
  * @author Lokal Profil
  */
