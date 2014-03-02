@@ -148,3 +148,10 @@ $messages['uk'] = array(
 $messages['zh-hans'] = array(
 	'yetanotherkeywords-desc' => '添加&lt;metakeywords&gt;标签，注入meta关键字到页面头',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Liuxinyu970226
+ */
+$messages['zh-hant'] = array(
+	'yetanotherkeywords-desc' => '加入&lt;metakeywords&gt;標籤以注入meta位元至頁眉',
+);
