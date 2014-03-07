@@ -50,6 +50,13 @@ $messages['es'] = array(
 	'yetanotherkeywords-desc' => 'Añade la etiqueta &lt;metakeywords&gt; para inyectar palabras clave «meta» en la cabecera de la página',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'yetanotherkeywords-desc' => 'افزودن برچسب &lt;metakeywords&gt؛ برای تزریق کلمات کلیدی متا در سرفصل صفحه',
+);
+
 /** French (français)
  * @author Gomoko
  */
