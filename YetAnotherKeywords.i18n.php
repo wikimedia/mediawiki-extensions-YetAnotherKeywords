@@ -43,6 +43,13 @@ $messages['de'] = array(
 	'yetanotherkeywords-desc' => 'Ergänzt das &lt;metakeywords&gt;-Tag zum Einfügen von Meta-Schlüsselwörtern in den Seitenheader',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'yetanotherkeywords-desc' => 'Pśidawa element &lt;metakeywords&gt; za zasajźenje klucowych słowow "meta" do głowy boka',
+);
+
 /** Spanish (español)
  * @author Fitoschido
  */
@@ -69,6 +76,13 @@ $messages['fr'] = array(
  */
 $messages['gl'] = array(
 	'yetanotherkeywords-desc' => 'Engade a etiqueta &lt;metakeywords&gt; para inxectar palabras clave na cabeceira dunha páxina',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'yetanotherkeywords-desc' => 'Přidawa element &lt;metakeywords&gt; za zasadźenje klučowych słowow "meta" do hłowy strony',
 );
 
 /** Japanese (日本語)
