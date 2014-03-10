@@ -78,6 +78,13 @@ $messages['gl'] = array(
 	'yetanotherkeywords-desc' => 'Engade a etiqueta &lt;metakeywords&gt; para inxectar palabras clave na cabeceira dunha páxina',
 );
 
+/** Hebrew (עברית)
+ * @author Yona b
+ */
+$messages['he'] = array(
+	'yetanotherkeywords-desc' => 'מוסיף תג &lt;metakeywords&gt; שמחדיר מילות מפתח לכותרת הדף',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
