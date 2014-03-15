@@ -134,6 +134,13 @@ $messages['nb'] = array(
 	'yetanotherkeywords-desc' => 'Legg til &lt;metakeywords&gt;-tag for å sette inn meta-nøkkelord i sideoverskriften',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'yetanotherkeywords-desc' => 'Apond la balisa &lt;metakeywords&gt; per injectar de meta-mots-claus dins l’entèsta de la pagina',
+);
+
 /** Polish (polski)
  * @author Chrumps
  */
