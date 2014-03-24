@@ -134,6 +134,13 @@ $messages['nb'] = array(
 	'yetanotherkeywords-desc' => 'Legg til &lt;metakeywords&gt;-tag for å sette inn meta-nøkkelord i sideoverskriften',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'yetanotherkeywords-desc' => 'Voegt het label &lt;metakeywords&gt; toe om metatrefwoorden toe te voegen aan de paginaheader',
+);
+
 /** Occitan (occitan)
  * @author Cedric31
  */
