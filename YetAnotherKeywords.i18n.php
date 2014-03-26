@@ -166,7 +166,7 @@ $messages['ru'] = array(
  * @author John Reid
  */
 $messages['sco'] = array(
-	'yetanotherkeywords-desc' => 'Adds &lt;metakeywords&gt; tag tae inject meta keywords intil page header',
+	'yetanotherkeywords-desc' => 'Eiks &lt;metakeywords&gt; tag tae inject meta keywairds intil page heider',
 );
 
 /** Swedish (svenska)
