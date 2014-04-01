@@ -3,7 +3,6 @@
  * YetAnotherKeywords.php - A MediaWiki tag extension for adding <meta> keywords to a page.
  * @author Jehy
  * Based on plugin by Joshua C. Lerner
- * @version 0.2
  * @copyright Copyright (C) 2008-2012 Jehy
  * @license The MIT License - http://www.opensource.org/licenses/mit-license.php
  * -----------------------------------------------------------------------
@@ -58,9 +57,10 @@ $wgExtensionCredits['parserhook'][] = array(
 	'author' => 'Jehy http://jehy.ru/index.en.html',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:YetAnotherKeywords',
 	'descriptionmsg' => 'yetanotherkeywords-desc',
-	'version'=> '0.2'
+	'version'=> '0.3.0'
 );
 
+$wgMessagesDirs['YetAnotherKeywords'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['YetAnotherKeywords'] = __DIR__ . '/YetAnotherKeywords.i18n.php';
 
 $wgExtensionFunctions[] = 'setupYetAnotherKeywordsParserHooks';
