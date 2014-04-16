@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Liuxinyu970226",
-            "Yfdyh000"
-        ]
-    },
-    "yetanotherkeywords-desc": "添加&lt;metakeywords&gt;标签，注入meta关键字到页面头"
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226",
+			"Yfdyh000"
+		]
+	},
+	"yetanotherkeywords-desc": "添加&lt;metakeywords&gt;标签，注入meta关键字到页面头"
 }

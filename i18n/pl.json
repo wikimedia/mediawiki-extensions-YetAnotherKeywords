@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chrumps"
-        ]
-    },
-    "yetanotherkeywords-desc": "Dodaje znacznik &lt;metakeywords&gt; aby przekazać słowa kluczowe meta do nagłówka strony"
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"yetanotherkeywords-desc": "Dodaje znacznik &lt;metakeywords&gt; aby przekazać słowa kluczowe meta do nagłówka strony"
 }

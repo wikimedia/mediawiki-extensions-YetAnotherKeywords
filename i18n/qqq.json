@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Raimond Spekking"
-        ]
-    },
-    "yetanotherkeywords-desc": "{{desc|name=YetAnotherKeywords|url=https://www.mediawiki.org/wiki/Extension:YetAnotherKeywords}}"
+	"@metadata": {
+		"authors": [
+			"Raimond Spekking"
+		]
+	},
+	"yetanotherkeywords-desc": "{{desc|name=YetAnotherKeywords|url=https://www.mediawiki.org/wiki/Extension:YetAnotherKeywords}}"
 }

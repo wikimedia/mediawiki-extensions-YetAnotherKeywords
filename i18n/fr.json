@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gomoko"
-        ]
-    },
-    "yetanotherkeywords-desc": "Ajoute la balise &lt;metakeywords&gt; pour injecter des méta-mots-clés dans l’entête de la page"
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"yetanotherkeywords-desc": "Ajoute la balise &lt;metakeywords&gt; pour injecter des méta-mots-clés dans l’entête de la page"
 }

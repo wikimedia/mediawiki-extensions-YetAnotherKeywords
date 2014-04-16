@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "yetanotherkeywords-desc": "Voegt het label &lt;metakeywords&gt; toe om metatrefwoorden toe te voegen aan de paginaheader"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"yetanotherkeywords-desc": "Voegt het label &lt;metakeywords&gt; toe om metatrefwoorden toe te voegen aan de paginaheader"
 }
