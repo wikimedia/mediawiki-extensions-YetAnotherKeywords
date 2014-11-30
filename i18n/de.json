@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Metalhead64"
+			"Metalhead64",
+			"Purodha"
 		]
 	},
-	"yetanotherkeywords-desc": "Ergänzt das &lt;metakeywords&gt;-Tag zum Einfügen von Meta-Schlüsselwörtern in den Seitenheader"
+	"yetanotherkeywords-desc": "Erlaubt das &lt;metakeywords&gt;-Tag zum Einfügen von Meta-Schlüsselwörtern in den Seitenheader"
 }
