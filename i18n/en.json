@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jehy"
-        ]
-    },
-    "yetanotherkeywords-desc": "Adds &lt;metakeywords&gt; tag to inject meta keywords into page header"
+	"@metadata": {
+		"authors": [
+			"Jehy"
+		]
+	},
+	"yetanotherkeywords-desc": "Adds &lt;metakeywords&gt; tag to inject meta keywords into page header"
 }
