@@ -90,7 +90,7 @@ function renderYetAnotherKeywords( $text, $params = array(), $parser ) {
 	if ( !isset($text) ) {
 		return
 			'<div class="errorbox"&gt;'.
-			wfMesage('YetAnotherKeywords-missing-content')->inContentLanguage()->escaped().
+			wfMessage('YetAnotherKeywords-missing-content')->inContentLanguage()->escaped().
 			'</div&gt;';
 	}
 
