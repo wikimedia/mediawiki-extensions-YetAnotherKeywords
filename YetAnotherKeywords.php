@@ -61,7 +61,6 @@ $wgExtensionCredits['parserhook'][] = array(
 );
 
 $wgMessagesDirs['YetAnotherKeywords'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['YetAnotherKeywords'] = __DIR__ . '/YetAnotherKeywords.i18n.php';
 
 $wgExtensionFunctions[] = 'setupYetAnotherKeywordsParserHooks';
 
