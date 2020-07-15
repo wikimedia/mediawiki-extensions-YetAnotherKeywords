@@ -1,0 +1,25 @@
+{
+	"name": "YetAnotherKeywords",
+	"version": "0.4.0",
+	"author": "[http://jehy.ru/index.en.html Jehy]",
+	"license-name": "MIT",
+	"url": "https://www.mediawiki.org/wiki/Extension:YetAnotherKeywords",
+	"descriptionmsg": "yetanotherkeywords-desc",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
+	"MessagesDirs": {
+		"YetAnotherKeywords": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"YetAnotherKeywords": "YetAnotherKeywords.class.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "YetAnotherKeywords::onParserFirstCallInit",
+		"OutputPageBeforeHTML": "YetAnotherKeywords::insertMetaKeywords"
+	},
+	"manifest_version": 2
+}
