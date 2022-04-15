@@ -1,4 +1,5 @@
 {
+	"name": "YetAnotherKeywords",
 	"private": true,
 	"scripts": {
 		"test": "grunt test"
