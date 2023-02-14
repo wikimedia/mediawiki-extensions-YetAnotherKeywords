@@ -6,7 +6,7 @@
  * @author Jehy
  * Based on plugin by Joshua C. Lerner
  * @copyright Copyright © 2008-2012 Jehy
- * @license The MIT License - http://www.opensource.org/licenses/mit-license.php
+ * @license MIT
  * -----------------------------------------------------------------------
  * Description:
  *     This is a MediaWiki extension which adds support for injecting a <meta> keywords tag
@@ -51,16 +51,15 @@ class YetAnotherKeywords {
 	 * Renders the <metakeywords> tag.
 	 *
 	 * @param string $text Incoming text - should always be null or empty (passed by value).
-	 * @param array $params Attributes specified for tag - must contain 'content' (passed by value).
 	 * @param Parser $parser Reference to currently running parser (passed by reference).
+	 * @param array $params Attributes specified for tag - must contain 'content' (passed by value).
 	 * @return string
 	 */
-	public static function render( $text, $params = [], $parser ) {
+	public static function render( $text, $parser, $params = [] ) {
 		// Short-circuit with error message if content is not specified.
 		if ( !isset( $text ) ) {
-			return
-				'<div class="errorbox"&gt;'.
-				wfMessage( 'YetAnotherKeywords-missing-content' )->inContentLanguage()->escaped().
+			return '<div class="errorbox"&gt;' .
+				wfMessage( 'YetAnotherKeywords-missing-content' )->inContentLanguage()->escaped() .
 				'</div&gt;';
 		}
 
@@ -89,6 +88,7 @@ class YetAnotherKeywords {
 		$data = $matches[1];
 		// Merge keywords data into OutputPage as meta tag
 		foreach ( $data as $item ) {
+			// phpcs:ignore Generic.PHP.NoSilencedErrors.Discouraged
 			$content = @base64_decode( $item );
 			if ( $content ) {
 				$out->addMeta( 'keywords', $content );

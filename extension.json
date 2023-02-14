@@ -15,7 +15,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"YetAnotherKeywords": "YetAnotherKeywords.class.php"
+		"YetAnotherKeywords": "src/YetAnotherKeywords.php"
 	},
 	"Hooks": {
 		"ParserFirstCallInit": "YetAnotherKeywords::onParserFirstCallInit",
