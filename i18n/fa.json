@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Armin1392"
+			"Armin1392",
+			"LProfo"
 		]
 	},
-	"yetanotherkeywords-desc": "افزودن برچسب &lt;metakeywords&gt؛ برای تزریق کلمات کلیدی متا در سرفصل صفحه"
+	"yetanotherkeywords-desc": "افزودن برچسب &lt;metakeywords&gt؛ برای تزریق کلیدواژه‌های متا در سرفصل صفحه"
 }
